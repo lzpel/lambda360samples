@@ -1,0 +1,11 @@
+[project]
+name = "engine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "build123d>=0.10.0",
+    "pyvista>=0.47.0",
+    "vtk>=9.3.1",
+]
