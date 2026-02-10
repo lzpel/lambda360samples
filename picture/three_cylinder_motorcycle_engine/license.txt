@@ -1,0 +1,11 @@
+Model Information:
+* title:	Three Cylinder Motorcycle Engine
+* source:	https://sketchfab.com/3d-models/three-cylinder-motorcycle-engine-ad2416e341cb4beca3f86b0b00e84749
+* author:	Jamie Hamel-Smith (https://sketchfab.com/jamie3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Three Cylinder Motorcycle Engine" (https://sketchfab.com/3d-models/three-cylinder-motorcycle-engine-ad2416e341cb4beca3f86b0b00e84749) by Jamie Hamel-Smith (https://sketchfab.com/jamie3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
